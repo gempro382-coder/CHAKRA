@@ -1,0 +1,57 @@
+{
+  "intro": {
+    "en": "Namaskar. I am Ramen, a farmer from Barak Valley in Assam. Only about one fifth of Assam's farmland is irrigated, while the national average is one half. Walk with me. First I will show you my village as it is today.",
+    "hi": "नमस्कार। मैं रमेन हूँ, असम की बराक घाटी का एक किसान। असम में खेती की ज़मीन का सिर्फ़ पाँचवाँ हिस्सा ही सिंचित है, जबकि देश का औसत लगभग आधा है। मेरे साथ चलिए। पहले मैं आपको अपना गाँव वैसा दिखाता हूँ, जैसा वह आज है।",
+    "as": "নমস্কাৰ। মই ৰমেন, অসমৰ বৰাক উপত্যকাৰ এজন খেতিয়ক। অসমৰ খেতিৰ মাটিৰ মাত্ৰ পাঁচ ভাগৰ এভাগতহে জলসিঞ্চনৰ সুবিধা আছে, অথচ দেশৰ গড় প্ৰায় আধা। মোৰ লগত আহক। প্ৰথমে মই আপোনাক মোৰ গাঁওখন আজি যেনেকুৱা আছে, তেনেকুৱাকৈ দেখুৱাম।"
+  },
+  "diesel": {
+    "en": "This is the diesel pump I rent for water. It burns more than a litre of diesel every hour, and diesel costs ninety-seven rupees a litre. With oil and repairs, I pay one hundred and sixteen rupees for every hour, in cash.",
+    "hi": "यह डीज़ल पंप है, जिसे मैं पानी के लिए किराए पर लेता हूँ। यह हर घंटे एक लीटर से ज़्यादा डीज़ल जलाता है, और डीज़ल सत्तानवे रुपये लीटर है। तेल और मरम्मत मिलाकर मुझे हर घंटे के एक सौ सोलह रुपये नकद देने पड़ते हैं।",
+    "as": "এইটো ডিজেল পাম্প, পানীৰ বাবে মই ইয়াক ভাড়াত লওঁ। ই প্ৰতি ঘণ্টাত এক লিটাৰতকৈ বেছি ডিজেল পোৰে, আৰু ডিজেলৰ দাম লিটাৰত সাতানব্বৈ টকা। তেল আৰু মেৰামতিৰ খৰচ ধৰি মই প্ৰতি ঘণ্টাত এশ ষোল্ল টকা নগদ দিব লাগে।"
+  },
+  "dry": {
+    "en": "Look at these fields. When the rain comes late and diesel is costly, we cannot transplant the paddy. The land cracks and stays bare. If the rain is two weeks late, we lose the season.",
+    "hi": "इन खेतों को देखिए। जब बारिश देर से आती है और डीज़ल महँगा होता है, तो हम धान की रोपाई नहीं कर पाते। ज़मीन फट जाती है और खेत खाली रह जाते हैं। बारिश दो हफ़्ते देर से आए, तो पूरा मौसम हाथ से निकल जाता है।",
+    "as": "এই পথাৰবোৰ চাওক। বৰষুণ পলমকৈ আহিলে আৰু ডিজেলৰ দাম বেছি হ'লে আমি ধান ৰুব নোৱাৰোঁ। মাটি ফাটি যায় আৰু পথাৰ খালী হৈ থাকে। বৰষুণ দুসপ্তাহ পলম হ'লে গোটেই খেতিৰ বতৰটোৱেই হেৰাই যায়।"
+  },
+  "spoil": {
+    "en": "These tomatoes, chillies and lemons were picked this morning. In thirty-four degree heat they spoil within a day. The nearest cold storage is twenty-five to forty kilometres away, so fifteen to twenty percent of our harvest is lost before it is ever sold.",
+    "hi": "ये टमाटर, मिर्च और नींबू आज सुबह ही तोड़े गए थे। चौंतीस डिग्री की गर्मी में ये एक ही दिन में ख़राब हो जाते हैं। सबसे पास का कोल्ड स्टोरेज पच्चीस से चालीस किलोमीटर दूर है, इसलिए हमारी पंद्रह से बीस प्रतिशत फ़सल बिकने से पहले ही बर्बाद हो जाती है।",
+    "as": "এই বিলাহী, জলকীয়া আৰু নেমুবোৰ আজি ৰাতিপুৱাই ছিঙা হৈছিল। চৌত্ৰিশ ডিগ্ৰী গৰমত এইবোৰ এদিনতে নষ্ট হৈ যায়। আটাইতকৈ ওচৰৰ কোল্ড ষ্ট'ৰেজ পঁচিশৰ পৰা চল্লিশ কিলোমিটাৰ দূৰত, সেয়ে আমাৰ পোন্ধৰৰ পৰা বিশ শতাংশ শস্য বিক্ৰী হোৱাৰ আগতেই নষ্ট হয়।"
+  },
+  "truck": {
+    "en": "And this truck is taking our paddy to a mill in town. We sell it as raw grain, so the milling margin leaves the village with it. Water, harvest and value. Three leaks in one farm economy.",
+    "hi": "और यह ट्रक हमारा धान शहर की मिल में ले जा रहा है। हम उसे कच्चे अनाज के रूप में बेचते हैं, इसलिए कुटाई का मुनाफ़ा भी गाँव से बाहर चला जाता है। पानी, फ़सल और मुनाफ़ा। एक ही खेती में तीन रिसाव।",
+    "as": "আৰু এই ট্ৰাকখনে আমাৰ ধান চহৰৰ মিললৈ লৈ গৈছে। আমি ধান কেঁচা শস্য হিচাপে বিক্ৰী কৰোঁ, সেয়ে ধান বনোৱাৰ লাভখিনিও গাঁৱৰ পৰা ওলাই যায়। পানী, শস্য আৰু লাভ। একেটা খেতিতে তিনিটা লোকচান।"
+  },
+  "hub": {
+    "en": "Now see the same village with a CHAKRA node. One shared solar array of fifteen kilowatts, a small battery, and a controller called the CHAKRA Bridge, which decides which machine gets the sunlight. The village owns it together. As a farmer, I invest nothing. I only pay for the service I use.",
+    "hi": "अब वही गाँव चक्र नोड के साथ देखिए। पंद्रह किलोवाट का एक साझा सोलर प्लांट, एक छोटी बैटरी, और चक्र ब्रिज नाम का कंट्रोलर, जो तय करता है कि धूप की बिजली किस मशीन को मिलेगी। यह पूरे गाँव की साझा संपत्ति है। किसान के रूप में मुझे कोई पूँजी नहीं लगानी पड़ती। मैं सिर्फ़ उतनी सेवा का पैसा देता हूँ, जितनी इस्तेमाल करता हूँ।",
+    "as": "এতিয়া সেই একেখন গাঁও চক্ৰ ন'ডৰ সৈতে চাওক। পোন্ধৰ কিলোৱাটৰ এটা উমৈহতীয়া সৌৰ প্লাণ্ট, এটা সৰু বেটাৰী, আৰু চক্ৰ ব্ৰিজ নামৰ এটা কণ্ট্ৰ'লাৰ, যিয়ে ঠিক কৰে ৰ'দৰ বিদ্যুৎ কোনটো মেচিনে পাব। গোটেই গাঁৱে মিলি ইয়াৰ মালিক। খেতিয়ক হিচাপে মই কোনো মূলধন লগাব নালাগে। মই যিমান সেৱা ব্যৱহাৰ কৰোঁ, সিমানৰহে পইচা দিওঁ।"
+  },
+  "water": {
+    "en": "At five thirty in the morning I give one missed call. The system calls me back in Assamese and sends a payment request. I pay one hundred and ten rupees for two hours of water. On diesel, the same water cost me two hundred and thirty-two rupees. The pump runs on the rising sun.",
+    "hi": "सुबह साढ़े पाँच बजे मैं बस एक मिस्ड कॉल देता हूँ। सिस्टम मुझे असमिया में वापस कॉल करता है और भुगतान का अनुरोध भेजता है। दो घंटे के पानी के लिए मैं एक सौ दस रुपये देता हूँ। डीज़ल पर यही पानी मुझे दो सौ बत्तीस रुपये का पड़ता था। पंप उगते सूरज की बिजली से चलता है।",
+    "as": "ৰাতিপুৱা সাৰে পাঁচ বজাত মই মাত্ৰ এটা মিছড কল দিওঁ। চিষ্টেমে মোক অসমীয়াত ঘূৰাই কল কৰে আৰু টকা পৰিশোধৰ অনুৰোধ পঠায়। দুঘণ্টা পানীৰ বাবে মই এশ দহ টকা দিওঁ। ডিজেলত এই একে পানীৰ বাবে মোৰ দুশ বত্ৰিশ টকা খৰচ হৈছিল। পাম্পটো উদয় হোৱা সূৰ্যৰ শক্তিৰে চলে।"
+  },
+  "cold": {
+    "en": "After the fields are watered, the midday sun cools this cold room down to two degrees. Now our vegetables stay fresh, and about fifteen percent of the harvest is saved, without a trip to town.",
+    "hi": "खेतों की सिंचाई के बाद, दोपहर की धूप इस कोल्ड रूम को दो डिग्री तक ठंडा कर देती है। अब हमारी सब्ज़ियाँ ताज़ा रहती हैं, और क़रीब पंद्रह प्रतिशत फ़सल बच जाती है, शहर जाए बिना।",
+    "as": "পথাৰত পানী দিয়াৰ পাছত, দুপৰীয়াৰ ৰ'দে এই কোল্ড ৰুমটো দুই ডিগ্ৰীলৈ ঠাণ্ডা কৰে। এতিয়া আমাৰ শাক-পাচলি সতেজ হৈ থাকে, আৰু প্ৰায় পোন্ধৰ শতাংশ শস্য ৰক্ষা পৰে, চহৰলৈ নোযোৱাকৈয়ে।"
+  },
+  "huller": {
+    "en": "In the afternoon the same solar power runs this rice huller. We mill our paddy eight hundred metres from the field and pay only a small fee. The margin stays in the village.",
+    "hi": "दोपहर बाद यही सोलर बिजली इस चावल मिल को चलाती है। हम अपना धान खेत से सिर्फ़ आठ सौ मीटर दूर कूटते हैं और बस थोड़ी सी फ़ीस देते हैं। मुनाफ़ा गाँव में ही रहता है।",
+    "as": "আবেলি এই একে সৌৰ বিদ্যুতেৰে এই ধান বনা কলটো চলে। আমি আমাৰ ধান পথাৰৰ পৰা মাত্ৰ আঠশ মিটাৰ দূৰত বনাওঁ আৰু অলপ মাচুলহে দিওঁ। লাভখিনি গাঁৱতে থাকে।"
+  },
+  "grid": {
+    "en": "In the evening, when the grid is under the most stress, nothing here switches on. The pumps stop, the cold room holds its cold, and the battery lights our homes. That gives the electricity company two point four kilowatts of flexibility it can count on.",
+    "hi": "शाम को, जब बिजली ग्रिड पर सबसे ज़्यादा दबाव होता है, यहाँ कुछ भी चालू नहीं होता। पंप बंद हो जाते हैं, कोल्ड रूम अपनी ठंडक बनाए रखता है, और बैटरी हमारे घरों को रोशन करती है। इससे बिजली कंपनी को दो दशमलव चार किलोवाट की भरोसेमंद राहत मिलती है।",
+    "as": "সন্ধিয়া, যেতিয়া বিদ্যুৎ গ্ৰীডত আটাইতকৈ বেছি হেঁচা পৰে, ইয়াত একোৱেই চালু নহয়। পাম্প বন্ধ হয়, কোল্ড ৰুমে নিজৰ ঠাণ্ডা ধৰি ৰাখে, আৰু বেটাৰীয়ে আমাৰ ঘৰবোৰ পোহৰাই ৰাখে। ইয়াৰ ফলত বিদ্যুৎ কোম্পানীয়ে দুই দশমিক চাৰি কিলোৱাটৰ নিৰ্ভৰযোগ্য সকাহ পায়।"
+  },
+  "close": {
+    "en": "One shared array, four incomes. For a farmer like me, that is about seventeen thousand eight hundred rupees more per acre, every year. Three thousand eight hundred and forty litres of diesel are never burnt, and sixteen tonnes of carbon dioxide are avoided. This is CHAKRA. Thank you.",
+    "hi": "एक साझा सोलर प्लांट, चार कमाइयाँ। मेरे जैसे किसान के लिए इसका मतलब है हर साल प्रति एकड़ क़रीब सत्रह हज़ार आठ सौ रुपये की ज़्यादा कमाई। तीन हज़ार आठ सौ चालीस लीटर डीज़ल नहीं जलता, और सोलह टन कार्बन डाइऑक्साइड हवा में नहीं जाती। यही है चक्र। धन्यवाद।",
+    "as": "এটা উমৈহতীয়া সৌৰ প্লাণ্ট, চাৰিটা উপাৰ্জন। মোৰ দৰে খেতিয়কৰ বাবে ইয়াৰ অৰ্থ হ'ল প্ৰতি বছৰে প্ৰতি একৰত প্ৰায় সোতৰ হাজাৰ আঠশ টকা বেছি উপাৰ্জন। তিনি হাজাৰ আঠশ চল্লিশ লিটাৰ ডিজেল পোৰা নাযায়, আৰু ষোল্ল টন কাৰ্বন ডাই অক্সাইড বতাহত নিমিলে। এয়াই চক্ৰ। ধন্যবাদ।"
+  }
+}
